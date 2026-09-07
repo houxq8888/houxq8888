@@ -34,7 +34,7 @@
 ## 📫 Reach me
 
 - **Blog** · https://www.worldsensetech.com （中英双语）
-- **WeChat 公众号** · WorldSenseTech （搜索"世界模型" / "RSSM" / "VLA" 等系列长文）
+- **WeChat 公众号** · houxq8888 （搜索"世界模型" / "RSSM" / "VLA" 等系列长文）
 - **Zhihu 知乎** · _（专栏开通后补链接）_
 - **Email** · _（可选，或走博客 about 页表单）_
 
